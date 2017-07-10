@@ -17,9 +17,9 @@
 //
 // Declare Environments
 //
-  $production   = 'laurencain.com';
-  $stage        = 'stage.laurencain.com';
-  $local        = 'laurencain.local';
+  $production   = 'example.com';
+  $stage        = 'stage.example.com';
+  $local        = 'example.local';
 
 
 //
